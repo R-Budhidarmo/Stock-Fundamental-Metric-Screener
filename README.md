@@ -30,4 +30,4 @@ Follow the prompts to interact with the app & input the ticker symbol and the fr
 
 ## Disclaimer
 
-The code was developed for educational urposes only. Any outputs that the code may produce must not be treated as investment advice. When in doubt, seek help from a professional financial adviser. In addition, there may be errors popping up depending on how the data are retrieved by ```yahooquery``` or ```yfinance```, and depending on how different companies structured their financial reports. Feel free to fork it and change things to suit your needs.
+The code was developed for educational purposes only. Any outputs that the code may produce must not be treated as absolute investment advice. When in doubt, seek help from a professional financial adviser. In addition, there may be bugs popping up depending on how the data are retrieved by ```yahooquery``` or ```yfinance```, and depending on how different companies structured their financial reports. Feel free to fork it and change things to suit your needs.
